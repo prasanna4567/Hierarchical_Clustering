@@ -17,4 +17,8 @@ Output:
 Prints the updated distance matrix, minimum_distance in the distance matrix and resulting clusters with names for 
 every iteration till the number of clusters are equal to the given parameter 'no_of_clusters'
 
-Reference: https://github.com/hhundiwala/hierarchical-clustering
+References: 
+
+https://github.com/hhundiwala/hierarchical-clustering
+
+https://www.youtube.com/watch?v=T1ObCUpjq3o
